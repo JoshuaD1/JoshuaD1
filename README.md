@@ -12,16 +12,11 @@
     <ul>
       <li> Scenario Selection for Stochastic Physical Systems
       <li> Fault Detection in Microgrids with PV cells
-    </ul>
-  <li><b> Cyber Security </b>
-    <ul>
-      <li> List item 1
-      <li> List item 2
+      <li> Time-Series Clustering
     </ul>
    <li><b> Tutorials </b>
     <ul>
       <li> Database Manegement using PySpark 
-      <li> List item 2
     </ul>
   </ol>
 
