@@ -8,15 +8,20 @@
 
 <h2>👨‍💻 Data Science Projects:</h2> 
   <oL>
-  <li><b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  <li><b> Energy Systems Research </b>
     <ul>
-      <li>List item 1
-      <li>List item 2
+      <li> Scenario Selection for Stochastic Physical Systems
+      <li> Fault Detection in Microgrids with PV cells
     </ul>
-  <li>Secondary Heading
+  <li><b> Cyber Security </b>
     <ul>
-      <li>List item 1
-      <li>List item 2
+      <li> List item 1
+      <li> List item 2
+    </ul>
+   <li><b> Tutorials </b>
+    <ul>
+      <li> Database Manegement using PySpark 
+      <li> List item 2
     </ul>
   </ol>
 
