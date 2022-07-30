@@ -1,7 +1,7 @@
 <h1>
   Hello World, I'm Joshua Darville! 
   <br/>
-  <a href="https://github.com/JoshuaD1"> Data Scientist </a>, 
+  <a href="https://scholar.google.com/citations?user=bIkXNMwAAAAJ&hl=en"> Data Scientist </a>, 
   <a href="https://simlab.coe.miami.edu/index.html"> Research Assistant </a>, 
   <a href="https://fb.watch/eApCe4B-Zt/"> STEM Outreach </a>
 </h1>
