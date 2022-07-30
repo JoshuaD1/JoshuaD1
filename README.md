@@ -1,9 +1,9 @@
 <h1>
-  Hi, I'm Josh! 
+  Hello World, I'm Joshua Darville! 
   <br/>
   <a href="https://github.com/JoshuaD1"> Data Scientist </a>, 
-  <a href="https://www.linkedin.com/in/joshua-darville/"> Research Assistant </a>, 
-  <a href="https://simlab.coe.miami.edu/index.html"> STEM Outreach </a>
+  <a href="https://simlab.coe.miami.edu/index.html"> Research Assistant </a>, 
+  <a href="https://fb.watch/eApCe4B-Zt/"> STEM Outreach </a>
 </h1>
 
 <h2>👨‍💻 Data Science Projects:</h2> 
@@ -23,6 +23,7 @@
 <h2>📺 Popular YouTube Videos</h2>
   <ul>
     <li> 2020 Dynamic Data Driven Application Systems International Conference <a href="https://www.youtube.com/watch?v=XgEzL7dX64g"> here </a></li>
+    <li> 2017-2018 Captian of the Fisk rocket Team <a href="https://fb.watch/eApCe4B-Zt/"> here </a></li>
   </ul>
 
 <h2> 🤳 Connect with me:</h2>
