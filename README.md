@@ -23,7 +23,7 @@
 <h2>📺 Popular YouTube Videos</h2>
   <ul>
     <li> 2020 Dynamic Data Driven Application Systems International Conference <a href="https://www.youtube.com/watch?v=XgEzL7dX64g"> here </a></li>
-    <li> 2017-2018 Captian of the Fisk Rocket Team <a href="https://fb.watch/eApCe4B-Zt/"> here </a></li>
+    <li> 2017-2018 Captian of the Fisk University Rocket Team <a href="https://fb.watch/eApCe4B-Zt/"> here </a></li>
   </ul>
 
 <h2> 🤳 Connect with me:</h2>
