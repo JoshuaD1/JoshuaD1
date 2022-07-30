@@ -12,7 +12,7 @@
     <ul>
       <li> Scenario Selection for Stochastic Physical Systems
       <li> Fault Detection in Microgrids with PV cells
-      <li> Devation Clustering for Time-series data
+      <li> Devation Clustering for Time-series data <a href="https://github.com/JoshuaD1/DevationClustering"> here </a>
     </ul>
    <li><b> Tutorials </b>
     <ul>
