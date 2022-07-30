@@ -3,7 +3,7 @@
   <br/>
   <a href="https://github.com/JoshuaD1"> Data Scientist </a>, 
   <a href="https://www.linkedin.com/in/joshua-darville/"> Research Assistant </a>, 
-  <a href="https://www.youtube.com/channel/UCMvPpnqe1YsNP6oKxmnWU1A"> STEM Outreach </a>
+  <a href="https://simlab.coe.miami.edu/index.html"> STEM Outreach </a>
 </h1>
 
 <h2>👨‍💻 Data Science Projects:</h2> 
@@ -12,11 +12,11 @@
     <ul>
       <li> Scenario Selection for Stochastic Physical Systems
       <li> Fault Detection in Microgrids with PV cells
-      <li> Time-Series Clustering
+      <li> Devation Clustering for Time-series data
     </ul>
    <li><b> Tutorials </b>
     <ul>
-      <li> Database Manegement using PySpark <a href="https://github.com/JoshuaD1/PySpark"> here </a>
+      <li> Database Management using PySpark <a href="https://github.com/JoshuaD1/PySpark"> here </a>
     </ul>
   </ol>
 
