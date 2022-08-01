@@ -17,7 +17,7 @@
    <li><b> Tutorials </b>
     <ul>
       <li> Database Management using PySpark <a href="https://github.com/JoshuaD1/PySpark"> here </a>
-      <li> Database Management using PySpark <a href="https://github.com/JoshuaD1/CyberSecurity"> here </a>
+      <li> Secured Communications using Symmetric Key Cryptography <a href="https://github.com/JoshuaD1/CyberSecurity"> here </a>
     </ul>
   </ol>
 
